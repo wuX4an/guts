@@ -40,6 +40,8 @@ This framework is a semi-fullstack framework made for Go. I created it with the 
 git clone -b start --depth 1 https://github.com/wux4an/guts <Name of your proyect>
 ```
 
+> [!TIP]
+> If you name your project " . " it will use the same directory you are in.
 
 ### Roadmap
 - I want to make a cli tool that downloads the tools from the respective CDN'S, also does other things like build in release mode etc.
