@@ -5,10 +5,11 @@
     <img src="assets/umbrella.png" alt="umbrella-logo" width="120px" height="120px"/>
     <img src="assets/tailwind.png" alt="tailwind-logo" width="170px" height="100px"/>
     <img src="assets/sqlite.png" alt="sqlite-logo" width="120px" height="120px"/>
-GUTS is an acronimus for
-<a href="go.dev">Go</a>/<a href="github.com/gin-gonic/gin">Gin</a>,
-<a href="umbrellajs.com">Umbrellajs</a>, 
-<a href="tailwindcss.com">Tailwind</a> and <a href="www.sqlite.org">Sqlite</a>.
+  <br>
+  GUTS is an acronimus for
+  <a href="go.dev">Go</a>/<a href="github.com/gin-gonic/gin">Gin</a>,
+  <a href="umbrellajs.com">Umbrellajs</a>, 
+  <a href="tailwindcss.com">Tailwind</a> and <a href="www.sqlite.org">Sqlite</a>.
 </p>
 
 
