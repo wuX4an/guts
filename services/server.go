@@ -13,7 +13,7 @@ func Server() *gin.Engine {
 	r.LoadHTMLGlob("web/templates/*")
 	r.Static("/static", "web/static")
 	r.Static("/assets", "web/assets")
-	r.StaticFile("/favicon.ico", "web/assets/favicon.png")
+	r.StaticFile("/favicon.ico", "web/assets/favicon.ico")
 
 	r.NoRoute(func(ctx *gin.Context) {
 		ctx.HTML(http.StatusOK, "404.html", nil)
