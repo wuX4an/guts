@@ -3,7 +3,7 @@
 <p align="center">
     <img src="assets/golang.png" alt="golang-logo" width="180px" height="100px"/>
     <img src="assets/umbrella.svg" alt="umbrella-logo" width="120px" height="120px"/>
-    <img src="assets/twind.png" alt="twind-logo" width="120px" height="120px"/>
+    <img src="assets/twind.png" alt="twind-logo" width="125px" height="130px"/>
     <img src="assets/sqlite.png" alt="sqlite-logo" width="120px" height="120px"/>
   <br>
   <br>
