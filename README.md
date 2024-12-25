@@ -6,6 +6,7 @@
     <img src="assets/tailwind.png" alt="tailwind-logo" width="170px" height="100px"/>
     <img src="assets/sqlite.png" alt="sqlite-logo" width="120px" height="120px"/>
   <br>
+  <br>
   GUTS is an acronimus for
   <a href="go.dev">Go</a>/<a href="github.com/gin-gonic/gin">Gin</a>,
   <a href="umbrellajs.com">Umbrellajs</a>, 
