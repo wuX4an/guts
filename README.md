@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="assets/golang.png" alt="golang-logo" width="170px" height="100px"/>
-    <img src="assets/umbrella.png" alt="umbrella-logo" width="120px" height="120px"/>
+    <img src="assets/umbrella.svg" alt="umbrella-logo" width="120px" height="120px"/>
     <img src="assets/tailwind.png" alt="tailwind-logo" width="170px" height="100px"/>
     <img src="assets/sqlite.png" alt="sqlite-logo" width="120px" height="120px"/>
   <br>
