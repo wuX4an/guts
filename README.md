@@ -8,9 +8,9 @@
   <br>
   <br>
   GUTS is an acronimus for
-  <a href="go.dev">Go</a>/<a href="github.com/gin-gonic/gin">Gin</a>,
-  <a href="umbrellajs.com">Umbrellajs</a>, 
-  <a href="tailwindcss.com">Tailwind</a> and <a href="www.sqlite.org">Sqlite</a>.
+  <a href="https://go.dev">Go</a>/<a href="https://github.com/gin-gonic/gin">Gin</a>,
+  <a href="https://umbrellajs.com">Umbrellajs</a>, 
+  <a href="https://tailwindcss.com">Tailwind</a> and <a href="https://www.sqlite.org">Sqlite</a>.
 </p>
 
 
