@@ -2,12 +2,14 @@ package services
 
 import (
 	"net/http"
+	"wux4an/gats/services/bridges/database"
 	"wux4an/gats/services/routes"
 
 	"github.com/gin-gonic/gin"
 )
 
 func Server() *gin.Engine {
+	database.Create()
 	r := gin.New()
 
 	r.LoadHTMLGlob("web/templates/*")
@@ -20,5 +22,6 @@ func Server() *gin.Engine {
 	})
 
 	r.GET("/", routes.Index)
+	r.GET("/users", routes.Users)
 	return r
 }
